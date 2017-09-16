@@ -1,3 +1,3 @@
 # 《ES6标准入门》
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是阮一峰大神的书，很值得看
